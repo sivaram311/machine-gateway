@@ -1,6 +1,6 @@
 # Machine Gateway
 
-**Status:** Idea / docs only — not implemented.  
+**Status:** v0 implemented on Agent Portal branch `feature/machine-gateway-v0` (Agy GO 2026-07-16).  
 **Repo:** https://github.com/sivaram311/machine-gateway
 
 Host Consciousness API for this machine: one authenticated surface so an external AI can talk to the control plane the way Cursor CLI with Auto talks to a workspace — with live awareness of what is running and what is allowed.
@@ -10,6 +10,8 @@ Host Consciousness API for this machine: one authenticated surface so an externa
 | [docs/IDEA.md](docs/IDEA.md) | Product idea, surfaces, modes, first slice |
 | [docs/CONTEXT-SCHEMA.md](docs/CONTEXT-SCHEMA.md) | Draft shape of `GET /api/machine/context` |
 | [docs/NON-GOALS.md](docs/NON-GOALS.md) | Boundaries vs Agent Portal / Dual-CLI |
+| [docs/COLLAB-LOG.md](docs/COLLAB-LOG.md) | Cursor↔Agy timestamped collaboration index |
+| [docs/scripts/Get-MachineContext.ps1](docs/scripts/Get-MachineContext.ps1) | DEV helper to fetch context |
 
 ## Relationship to the stack
 
