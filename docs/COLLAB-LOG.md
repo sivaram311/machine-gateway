@@ -5,7 +5,7 @@
 
 | Session | Started (UTC) | Status | Index |
 |---------|---------------|--------|-------|
-| `2026-07-16-build-loop` | 2026-07-16T04:33:00Z | **Agy GO** | [collab/2026-07-16-build-loop/](collab/2026-07-16-build-loop/) |
+| `2026-07-16-build-loop` | 2026-07-16T04:33:00Z | **Agy GO** (impl + compliance); PR open | [collab/2026-07-16-build-loop/](collab/2026-07-16-build-loop/) |
 
 ## Conventions
 
