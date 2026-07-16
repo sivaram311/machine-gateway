@@ -1,0 +1,21 @@
+# Secrets / local env — never commit
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+credentials.json
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.swp
+
+# Build / deps (future)
+node_modules/
+target/
+dist/
+out/
+*.log
