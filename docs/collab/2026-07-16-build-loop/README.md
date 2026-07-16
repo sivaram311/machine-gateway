@@ -46,4 +46,7 @@ Ship Machine Gateway v0 on Agent Portal:
 | 2026-07-16T05:14:50Z | [051450Z-agy-go.md](051450Z-agy-go.md) | **GO** (+ Should path keys / recentMessages / MVC tests) |
 | 2026-07-16T05:16:00Z | (impl) | Cursor applied Should path keys + recentMessages |
 
-**Status:** Agy **GO** — feature branch ready to push.
+| 2026-07-16T05:20:00Z | [052000Z-cursor-compliance-check.md](052000Z-cursor-compliance-check.md) | Ports/CF/promote compliance ask |
+| 2026-07-16T05:21:46Z | [052146Z-agy-compliance-go.md](052146Z-agy-compliance-go.md) | **Compliance GO**; PR next gate |
+
+**Status:** Agy **GO** (impl + compliance) — open PR for Reviewer.
